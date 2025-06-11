@@ -26,6 +26,6 @@
 
 ```bash
 git clone https://github.com/Dasha2501/lab3.git
-cd duiktclicker
+cd lab3
 npm install
 npm run dev
